@@ -1,0 +1,12 @@
+C:\Users\Juan\Desktop\EMU\bin\x64\Release\Cloud Server.exe.config
+C:\Users\Juan\Desktop\EMU\bin\x64\Release\Cloud Server.exe
+C:\Users\Juan\Desktop\EMU\bin\x64\Release\Cloud Server.pdb
+C:\Users\Juan\Desktop\EMU\bin\x64\Release\AStar.dll
+C:\Users\Juan\Desktop\EMU\bin\x64\Release\Enyim.Caching.dll
+C:\Users\Juan\Desktop\EMU\bin\x64\Release\HabboEncryption.dll
+C:\Users\Juan\Desktop\EMU\bin\x64\Release\log4net.dll
+C:\Users\Juan\Desktop\EMU\bin\x64\Release\MySql.Data.dll
+C:\Users\Juan\Desktop\EMU\bin\x64\Release\Enyim.Caching.pdb
+C:\Users\Juan\Desktop\EMU\bin\x64\Release\Enyim.Caching.xml
+C:\Users\Juan\Desktop\EMU\obj\x64\Release\Cloud Server.exe
+C:\Users\Juan\Desktop\EMU\obj\x64\Release\Cloud Server.pdb

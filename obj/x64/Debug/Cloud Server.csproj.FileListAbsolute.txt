@@ -1,0 +1,27 @@
+C:\Users\Administrator\Desktop\EMU\bin\x64\Debug\Cloud Server.exe.config
+C:\Users\Administrator\Desktop\EMU\bin\x64\Debug\Cloud Server.exe
+C:\Users\Administrator\Desktop\EMU\bin\x64\Debug\Cloud Server.pdb
+C:\Users\Administrator\Desktop\EMU\bin\x64\Debug\AStar.dll
+C:\Users\Administrator\Desktop\EMU\bin\x64\Debug\Enyim.Caching.dll
+C:\Users\Administrator\Desktop\EMU\bin\x64\Debug\HabboEncryption.dll
+C:\Users\Administrator\Desktop\EMU\bin\x64\Debug\log4net.dll
+C:\Users\Administrator\Desktop\EMU\bin\x64\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\EMU\bin\x64\Debug\Enyim.Caching.pdb
+C:\Users\Administrator\Desktop\EMU\bin\x64\Debug\Enyim.Caching.xml
+C:\Users\Administrator\Desktop\EMU\bin\x64\Debug\log4net.xml
+C:\Users\Administrator\Desktop\EMU\obj\x64\Debug\Cloud Server.exe
+C:\Users\Administrator\Desktop\EMU\obj\x64\Debug\Cloud Server.pdb
+C:\Users\Administrator\Desktop\EMU\obj\x64\Debug\Cloud Server.csprojResolveAssemblyReference.cache
+C:\Users\Juan\Desktop\EMU\bin\x64\Debug\Cloud Server.exe.config
+C:\Users\Juan\Desktop\EMU\bin\x64\Debug\Cloud Server.exe
+C:\Users\Juan\Desktop\EMU\bin\x64\Debug\Cloud Server.pdb
+C:\Users\Juan\Desktop\EMU\bin\x64\Debug\AStar.dll
+C:\Users\Juan\Desktop\EMU\bin\x64\Debug\Enyim.Caching.dll
+C:\Users\Juan\Desktop\EMU\bin\x64\Debug\HabboEncryption.dll
+C:\Users\Juan\Desktop\EMU\bin\x64\Debug\log4net.dll
+C:\Users\Juan\Desktop\EMU\bin\x64\Debug\MySql.Data.dll
+C:\Users\Juan\Desktop\EMU\bin\x64\Debug\Enyim.Caching.pdb
+C:\Users\Juan\Desktop\EMU\bin\x64\Debug\Enyim.Caching.xml
+C:\Users\Juan\Desktop\EMU\bin\x64\Debug\log4net.xml
+C:\Users\Juan\Desktop\EMU\obj\x64\Debug\Cloud Server.exe
+C:\Users\Juan\Desktop\EMU\obj\x64\Debug\Cloud Server.pdb

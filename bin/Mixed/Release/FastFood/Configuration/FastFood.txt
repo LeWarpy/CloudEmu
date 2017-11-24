@@ -1,0 +1,22 @@
+## Fast Food Coded by Carlos D.
+## Please, don't delete this notes.
+
+## MySql Configuration
+db.host=127.0.0.1
+db.port=3306
+db.username=root
+db.password=az4uP5lpfB6
+db.dbname=lella
+
+## MySql Extra Info
+db.pool.size=100
+db.client.amount=200
+
+## Sockets Configuration ##
+game.tcp.conlimit=11000
+game.tcp.conperip=100
+game.tcp.enablenagles=false
+
+#FastFood info
+swfs.site=https://lella.biz/swf/games/
+init.port=90

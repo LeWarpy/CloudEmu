@@ -1,0 +1,273 @@
+2017-04-22 01:40:58,744 INFO  - Cloud.CloudServer >> » Conectado a la Base de datos!
+2017-04-22 01:40:58,822 INFO  - Cloud.HabboHotel.Game >> » Iniciando Cloud Server Para Habbo...
+2017-04-22 01:40:58,845 INFO  - Cloud.Core >> » Extra Settings -> CARGADO!
+2017-04-22 01:40:58,846 INFO  - Cloud.Core >> » Catalog Settings -> CARGADO!
+2017-04-22 01:40:58,846 INFO  - Cloud.Core >> » Notificaciones -> CARGADO!
+2017-04-22 01:40:58,877 INFO  - Cloud.Core.Language.LanguageManager >> » Cargado(s): 29 idiomas locales.
+2017-04-22 01:40:58,893 INFO  - Cloud.Core.Settings.SettingsManager >> » Cargada(s): 27 configuraciones del servidor.
+2017-04-22 01:40:59,065 INFO  - Cloud.HabboHotel.Moderation.ModerationManager >> » Cargado(s): 7 moderation presets.
+2017-04-22 01:40:59,066 INFO  - Cloud.HabboHotel.Moderation.ModerationManager >> » Cargado(s): 7 categorías de moderación.
+2017-04-22 01:40:59,067 INFO  - Cloud.HabboHotel.Moderation.ModerationManager >> » Cargado(s): 7 Msj. de preajuste de acción de moderación.
+2017-04-22 01:40:59,067 INFO  - Cloud.HabboHotel.Moderation.ModerationManager >> » En caché hay: 0 usuarios y maquinas de baneo.
+2017-04-22 01:40:59,407 INFO  - Cloud.HabboHotel.Items.ItemDataManager >> » Administrador de Items -> CARGADO
+2017-04-22 01:41:00,540 INFO  - Cloud.HabboHotel.Catalog.CatalogManager >> » Catalogo -> CARGADO
+2017-04-22 01:41:00,540 INFO  - Cloud.HabboHotel.Items.Crafting.CraftingManager >> » Crafring Manager -> CARGADO
+2017-04-22 01:41:00,540 INFO  - Cloud.HabboHotel.Items.Televisions.TelevisionManager >> » YouTube Manager -> CARGADO
+2017-04-22 01:41:00,556 INFO  - Cloud.HabboHotel.Navigator.NavigatorManager >> » Navegador de salas -> CARGADO
+2017-04-22 01:41:00,571 INFO  - Cloud.HabboHotel.Rooms.RoomManager >> » Salas -> CARGADO
+2017-04-22 01:41:00,603 INFO  - Cloud.HabboHotel.Rooms.Chat.Styles.ChatStyleManager >> » Cargados: 43 estilos de chat.
+2017-04-22 01:41:00,603 INFO  - Cloud.HabboHotel.Rooms.Chat.ChatManager >> » Chat Manager -> CARGADO
+2017-04-22 01:41:00,618 INFO  - Cloud.HabboHotel.Quests.QuestManager >> » Quest Manager -> CARGADO
+2017-04-22 01:41:00,656 INFO  - Cloud.HabboHotel.Achievements.AchievementManager >> » Achievement Manager -> CARGADO
+2017-04-22 01:41:00,682 INFO  - Cloud.HabboHotel.LandingView.LandingViewManager >> » Landing View -> CARGADO! 
+2017-04-22 01:41:00,698 INFO  - Cloud.HabboHotel.Games.GameDataManager >> » Juegos -> CARGADO
+2017-04-22 01:41:00,714 INFO  - Cloud.HabboHotel.Cache.CacheManager >> » Administrador de caché -> CARGADO
+2017-04-22 01:41:00,792 INFO  - Cloud.HabboHotel.Badges.BadgeManager >> » Cargada(s): 11225 definiciones de placas.
+2017-04-22 01:41:00,823 INFO  - Cloud.HabboHotel.Permissions.PermissionManager >> » Cargados: 52 permisos.
+2017-04-22 01:41:00,823 INFO  - Cloud.HabboHotel.Permissions.PermissionManager >> » Cargados: 16 grupo de permisos.
+2017-04-22 01:41:00,823 INFO  - Cloud.HabboHotel.Permissions.PermissionManager >> » Cargados: 15 derechos de los grupos de permisos.
+2017-04-22 01:41:00,823 INFO  - Cloud.HabboHotel.Permissions.PermissionManager >> » Cargados: 3 permisos con derecho de suscripción.
+2017-04-22 01:41:00,842 INFO  - Cloud.HabboHotel.Subscriptions.SubscriptionManager >> » Cargadas: 3 subscripciones.
+2017-04-22 01:41:00,847 INFO  - Cloud.HabboHotel.Rooms.TraxMachine >> » Jukebox -> Sonidos cargados: [82]
+2017-04-22 01:41:00,909 INFO  - Cloud.Core.FigureData >> » Figure Manager -> CARGADO.
+2017-04-22 01:41:00,925 INFO  - Cloud.Core.ServerStatusUpdater >> » Actualizador del servidor iniciado.
+2017-04-22 01:41:01,003 INFO  - Cloud.Communication.ConnectionManager >> » Configuración satisfactoria de los puetos: (30000)!
+2017-04-22 01:41:01,003 INFO  - Cloud.Communication.ConnectionManager >> » Maximas conexiones por IP [2000]!
+2017-04-22 01:41:01,003 INFO  - Cloud.CloudServer >> » CLOUD SERVER -> LISTO!! (3 s, 196 ms)
+2017-04-22 23:00:02,845 INFO  - Cloud.CloudServer >> » Conectado a la Base de datos!
+2017-04-22 23:00:02,958 INFO  - Cloud.HabboHotel.Game >> » Iniciando Cloud Server Para Habbo...
+2017-04-22 23:00:02,968 INFO  - Cloud.Core >> » Extra Settings -> CARGADO!
+2017-04-22 23:00:02,974 INFO  - Cloud.Core >> » Catalog Settings -> CARGADO!
+2017-04-22 23:00:02,977 INFO  - Cloud.Core >> » Notificaciones -> CARGADO!
+2017-04-22 23:00:03,005 INFO  - Cloud.Core.Language.LanguageManager >> » Cargado(s): 29 idiomas locales.
+2017-04-22 23:00:03,027 INFO  - Cloud.Core.Settings.SettingsManager >> » Cargada(s): 27 configuraciones del servidor.
+2017-04-22 23:00:03,243 INFO  - Cloud.HabboHotel.Moderation.ModerationManager >> » Cargado(s): 7 moderation presets.
+2017-04-22 23:00:03,244 INFO  - Cloud.HabboHotel.Moderation.ModerationManager >> » Cargado(s): 7 categorías de moderación.
+2017-04-22 23:00:03,244 INFO  - Cloud.HabboHotel.Moderation.ModerationManager >> » Cargado(s): 7 Msj. de preajuste de acción de moderación.
+2017-04-22 23:00:03,245 INFO  - Cloud.HabboHotel.Moderation.ModerationManager >> » En caché hay: 0 usuarios y maquinas de baneo.
+2017-04-22 23:00:03,580 INFO  - Cloud.HabboHotel.Items.ItemDataManager >> » Administrador de Items -> CARGADO
+2017-04-22 23:00:06,369 INFO  - Cloud.HabboHotel.Catalog.CatalogManager >> » Catalogo -> CARGADO
+2017-04-22 23:00:06,377 INFO  - Cloud.HabboHotel.Items.Crafting.CraftingManager >> » Crafring Manager -> CARGADO
+2017-04-22 23:00:06,383 INFO  - Cloud.HabboHotel.Items.Televisions.TelevisionManager >> » YouTube Manager -> CARGADO
+2017-04-22 23:00:06,403 INFO  - Cloud.HabboHotel.Navigator.NavigatorManager >> » Navegador de salas -> CARGADO
+2017-04-22 23:00:06,432 INFO  - Cloud.HabboHotel.Rooms.RoomManager >> » Salas -> CARGADO
+2017-04-22 23:00:06,531 INFO  - Cloud.HabboHotel.Rooms.Chat.Styles.ChatStyleManager >> » Cargados: 43 estilos de chat.
+2017-04-22 23:00:06,531 INFO  - Cloud.HabboHotel.Rooms.Chat.ChatManager >> » Chat Manager -> CARGADO
+2017-04-22 23:00:06,561 INFO  - Cloud.HabboHotel.Quests.QuestManager >> » Quest Manager -> CARGADO
+2017-04-22 23:00:06,588 INFO  - Cloud.HabboHotel.Achievements.AchievementManager >> » Achievement Manager -> CARGADO
+2017-04-22 23:00:06,632 INFO  - Cloud.HabboHotel.LandingView.LandingViewManager >> » Landing View -> CARGADO! 
+2017-04-22 23:00:06,641 INFO  - Cloud.HabboHotel.Games.GameDataManager >> » Juegos -> CARGADO
+2017-04-22 23:00:06,651 INFO  - Cloud.HabboHotel.Cache.CacheManager >> » Administrador de caché -> CARGADO
+2017-04-22 23:00:06,729 INFO  - Cloud.HabboHotel.Badges.BadgeManager >> » Cargada(s): 11225 definiciones de placas.
+2017-04-22 23:00:06,781 INFO  - Cloud.HabboHotel.Permissions.PermissionManager >> » Cargados: 52 permisos.
+2017-04-22 23:00:06,782 INFO  - Cloud.HabboHotel.Permissions.PermissionManager >> » Cargados: 16 grupo de permisos.
+2017-04-22 23:00:06,782 INFO  - Cloud.HabboHotel.Permissions.PermissionManager >> » Cargados: 15 derechos de los grupos de permisos.
+2017-04-22 23:00:06,783 INFO  - Cloud.HabboHotel.Permissions.PermissionManager >> » Cargados: 3 permisos con derecho de suscripción.
+2017-04-22 23:00:06,792 INFO  - Cloud.HabboHotel.Subscriptions.SubscriptionManager >> » Cargadas: 3 subscripciones.
+2017-04-22 23:00:06,802 INFO  - Cloud.HabboHotel.Rooms.TraxMachine >> » Jukebox -> Sonidos cargados: [82]
+2017-04-22 23:00:06,891 INFO  - Cloud.Core.FigureData >> » Figure Manager -> CARGADO.
+2017-04-22 23:00:06,920 INFO  - Cloud.Core.ServerStatusUpdater >> » Actualizador del servidor iniciado.
+2017-04-22 23:00:07,040 INFO  - Cloud.Communication.ConnectionManager >> » Configuración satisfactoria de los puetos: (30000)!
+2017-04-22 23:00:07,041 INFO  - Cloud.Communication.ConnectionManager >> » Maximas conexiones por IP [2000]!
+2017-04-22 23:00:07,044 INFO  - Cloud.CloudServer >> » CLOUD SERVER -> LISTO!! (5 s, 546 ms)
+2017-04-22 23:00:12,504 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [4000] GetClientVersionEvent
+2017-04-22 23:00:12,508 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [1961] InitCryptoEvent
+2017-04-22 23:00:12,764 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [1838] GenerateSecretKeyEvent
+2017-04-22 23:00:13,048 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [3270] ClientVariablesEvent
+2017-04-22 23:00:13,076 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [3229] UniqueIDEvent
+2017-04-22 23:00:13,083 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [2060] SSOTicketEvent
+2017-04-22 23:00:16,108 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [3466] EventTrackerEvent
+2017-04-22 23:00:16,309 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [333] InfoRetrieveEvent
+2017-04-22 23:00:16,498 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [3466] EventTrackerEvent
+2017-04-22 23:00:16,527 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [19] GetGameListingEvent
+2017-04-22 23:00:17,745 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [3657] InitializeGameCenterEvent
+2017-04-22 23:00:19,564 DEBUG - Cloud.Communication.Packets >> PAQUETE DESCONOCIDO: [2828] BODY: 
+2017-04-22 23:00:19,734 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [3111] MessengerInitEvent
+2017-04-22 23:00:19,765 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [2083] InitializeNewNavigatorEvent
+2017-04-22 23:00:19,774 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [1796] GetCreditsInfoEvent
+2017-04-22 23:00:19,779 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [1086] ScrGetUserInfoEvent
+2017-04-22 23:00:19,783 DEBUG - Cloud.Communication.Packets >> PAQUETE DESCONOCIDO: [3046] BODY: 
+2017-04-22 23:00:19,784 DEBUG - Cloud.Communication.Packets >> PAQUETE DESCONOCIDO: [3640] BODY: 
+2017-04-22 23:00:19,786 DEBUG - Cloud.Communication.Packets >> PAQUETE DESCONOCIDO: [63] BODY: 
+2017-04-22 23:00:19,788 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [3010] SetUsernameEvent
+2017-04-22 23:00:19,790 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [3082] GetUserFlatCatsEvent
+2017-04-22 23:00:19,837 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [809] GetNavigatorFlatsEvent
+2017-04-22 23:00:19,843 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [2041] UnnamedPacketEvent
+2017-04-22 23:00:19,845 DEBUG - Cloud.Communication.Packets >> PAQUETE DESCONOCIDO: [1220] BODY: 
+2017-04-22 23:00:19,907 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [1718] GetBuddyRequestsEvent
+2017-04-22 23:00:20,706 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [3077] OpenFlatConnectionEvent
+2017-04-22 23:00:23,884 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [3562] AvatarEffectSelectedEvent
+2017-04-22 23:00:25,131 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [2647] RefreshCampaignEvent
+2017-04-22 23:00:25,162 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [2894] RequestBonusRareEvent
+2017-04-22 23:00:25,177 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [2894] RequestBonusRareEvent
+2017-04-22 23:00:25,736 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [2319] RefreshPromoEvent
+2017-04-22 23:00:25,747 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [2647] RefreshCampaignEvent
+2017-04-22 23:00:25,781 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [2647] RefreshCampaignEvent
+2017-04-22 23:00:25,796 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [2647] RefreshCampaignEvent
+2017-04-22 23:00:25,863 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [2647] RefreshCampaignEvent
+2017-04-22 23:00:25,877 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [2647] RefreshCampaignEvent
+2017-04-22 23:00:26,047 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [2894] RequestBonusRareEvent
+2017-04-22 23:00:26,062 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [2647] RefreshCampaignEvent
+2017-04-22 23:00:26,098 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [2647] RefreshCampaignEvent
+2017-04-22 23:00:26,115 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [2647] RefreshCampaignEvent
+2017-04-22 23:00:26,278 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [2647] RefreshCampaignEvent
+2017-04-22 23:00:26,286 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [397] LatencyTestEvent
+2017-04-22 23:00:27,105 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [3077] OpenFlatConnectionEvent
+2017-04-22 23:00:27,112 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [3466] EventTrackerEvent
+2017-04-22 23:00:27,116 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [3466] EventTrackerEvent
+2017-04-22 23:00:27,506 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [3562] AvatarEffectSelectedEvent
+2017-04-22 23:00:27,983 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [2647] RefreshCampaignEvent
+2017-04-22 23:00:27,993 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [2894] RequestBonusRareEvent
+2017-04-22 23:00:28,005 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [2647] RefreshCampaignEvent
+2017-04-22 23:00:28,013 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [2647] RefreshCampaignEvent
+2017-04-22 23:00:28,014 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [2647] RefreshCampaignEvent
+2017-04-22 23:00:28,017 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [2647] RefreshCampaignEvent
+2017-04-22 23:00:29,942 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [460] NewNavigatorSearchEvent
+2017-04-22 23:00:30,102 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [3466] EventTrackerEvent
+2017-04-22 23:00:30,193 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [460] NewNavigatorSearchEvent
+2017-04-22 23:00:30,205 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [3466] EventTrackerEvent
+2017-04-22 23:00:30,283 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [3466] EventTrackerEvent
+2017-04-22 23:00:32,312 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [460] NewNavigatorSearchEvent
+2017-04-22 23:00:32,347 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [3466] EventTrackerEvent
+2017-04-22 23:00:33,195 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [1181] PingEvent
+2017-04-22 23:00:33,612 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [1334] GetGuestRoomEvent
+2017-04-22 23:00:33,625 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [3466] EventTrackerEvent
+2017-04-22 23:00:33,649 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [3077] OpenFlatConnectionEvent
+2017-04-22 23:00:33,824 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [3466] EventTrackerEvent
+2017-04-22 23:00:33,869 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [3844] GetHabboGroupBadgesEvent
+2017-04-22 23:00:33,911 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [1627] GetFurnitureAliasesEvent
+2017-04-22 23:00:33,959 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [2480] GetRoomEntryDataEvent
+2017-04-22 23:00:36,769 DEBUG - Cloud.Communication.Packets >> PAQUETE DESCONOCIDO: [2850] BODY: 
+2017-04-22 23:00:37,621 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [1810] GetAchievementsEvent
+2017-04-22 23:00:39,939 DEBUG - Cloud.Communication.Packets >> PAQUETE DESCONOCIDO: [3387] BODY: 
+2017-04-22 23:00:39,945 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [1334] GetGuestRoomEvent
+2017-04-22 23:00:41,041 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [3349] MoveAvatarEvent
+2017-04-22 23:00:42,369 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [3349] MoveAvatarEvent
+2017-04-22 23:00:44,645 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [1166] LookToEvent
+2017-04-22 23:00:44,680 DEBUG - Cloud.Communication.Packets >> PAQUETE DESCONOCIDO: [2410] BODY: [0][0][0]
+2017-04-22 23:00:44,682 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [3413] GetPetInformationEvent
+2017-04-22 23:00:45,811 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [397] LatencyTestEvent
+2017-04-22 23:00:46,229 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [1752] RideHorseEvent
+2017-04-22 23:00:47,612 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [3349] MoveAvatarEvent
+2017-04-22 23:00:49,643 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [3349] MoveAvatarEvent
+2017-04-22 23:00:52,060 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [3349] MoveAvatarEvent
+2017-04-22 23:00:54,027 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [3349] MoveAvatarEvent
+2017-04-22 23:00:55,111 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [460] NewNavigatorSearchEvent
+2017-04-22 23:00:55,153 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [3466] EventTrackerEvent
+2017-04-22 23:00:55,317 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [3466] EventTrackerEvent
+2017-04-22 23:00:56,482 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [460] NewNavigatorSearchEvent
+2017-04-22 23:00:56,514 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [3466] EventTrackerEvent
+2017-04-22 23:01:00,155 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [460] NewNavigatorSearchEvent
+2017-04-22 23:01:00,163 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [3466] EventTrackerEvent
+2017-04-22 23:01:01,360 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [1334] GetGuestRoomEvent
+2017-04-22 23:01:01,370 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [3466] EventTrackerEvent
+2017-04-22 23:01:01,394 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [3562] AvatarEffectSelectedEvent
+2017-04-22 23:01:01,705 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [3077] OpenFlatConnectionEvent
+2017-04-22 23:01:01,777 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [3466] EventTrackerEvent
+2017-04-22 23:01:01,778 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [3844] GetHabboGroupBadgesEvent
+2017-04-22 23:01:01,796 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [2480] GetRoomEntryDataEvent
+2017-04-22 23:01:02,609 DEBUG - Cloud.Communication.Packets >> PAQUETE DESCONOCIDO: [2850] BODY: 
+2017-04-22 23:01:03,512 DEBUG - Cloud.Communication.Packets >> PAQUETE DESCONOCIDO: [3387] BODY: 
+2017-04-22 23:01:03,676 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [1334] GetGuestRoomEvent
+2017-04-22 23:01:03,713 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [1181] PingEvent
+2017-04-22 23:01:03,803 DEBUG - Cloud.Communication.Packets >> PAQUETE DESCONOCIDO: [594] BODY: 
+2017-04-22 23:01:04,480 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [3349] MoveAvatarEvent
+2017-04-22 23:01:05,861 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [397] LatencyTestEvent
+2017-04-22 23:01:05,893 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [2054] PongMessageEvent
+2017-04-22 23:01:07,529 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [1166] LookToEvent
+2017-04-22 23:01:07,531 DEBUG - Cloud.Communication.Packets >> PAQUETE DESCONOCIDO: [2410] BODY: [0][0][0]
+2017-04-22 23:01:07,533 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [3413] GetPetInformationEvent
+2017-04-22 23:01:09,028 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [1752] RideHorseEvent
+2017-04-22 23:01:10,612 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [3413] GetPetInformationEvent
+2017-04-22 23:01:13,665 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [3413] GetPetInformationEvent
+2017-04-22 23:01:16,695 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [3413] GetPetInformationEvent
+2017-04-22 23:01:19,693 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [3413] GetPetInformationEvent
+2017-04-22 23:01:20,695 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [1086] ScrGetUserInfoEvent
+2017-04-22 23:01:22,693 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [3413] GetPetInformationEvent
+2017-04-22 23:01:25,694 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [3413] GetPetInformationEvent
+2017-04-22 23:01:25,896 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [397] LatencyTestEvent
+2017-04-22 23:01:28,041 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [637] StartTypingEvent
+2017-04-22 23:01:28,695 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [3413] GetPetInformationEvent
+2017-04-22 23:01:30,695 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [957] CancelTypingEvent
+2017-04-22 23:01:31,696 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [3413] GetPetInformationEvent
+2017-04-22 23:01:33,229 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [1181] PingEvent
+2017-04-22 23:01:34,729 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [3413] GetPetInformationEvent
+2017-04-22 23:01:37,730 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [3413] GetPetInformationEvent
+2017-04-22 23:01:40,779 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [3413] GetPetInformationEvent
+2017-04-22 23:01:43,446 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [460] NewNavigatorSearchEvent
+2017-04-22 23:01:43,489 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [3466] EventTrackerEvent
+2017-04-22 23:01:43,579 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [3466] EventTrackerEvent
+2017-04-22 23:01:43,779 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [3413] GetPetInformationEvent
+2017-04-22 23:01:45,943 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [397] LatencyTestEvent
+2017-04-22 23:01:46,779 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [3413] GetPetInformationEvent
+2017-04-22 23:01:49,063 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [460] NewNavigatorSearchEvent
+2017-04-22 23:01:49,090 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [3466] EventTrackerEvent
+2017-04-22 23:01:49,780 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [3413] GetPetInformationEvent
+2017-04-22 23:01:50,111 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [1334] GetGuestRoomEvent
+2017-04-22 23:01:50,114 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [3466] EventTrackerEvent
+2017-04-22 23:01:50,144 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [3562] AvatarEffectSelectedEvent
+2017-04-22 23:01:50,319 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [3077] OpenFlatConnectionEvent
+2017-04-22 23:01:50,347 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [3466] EventTrackerEvent
+2017-04-22 23:01:50,361 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [3844] GetHabboGroupBadgesEvent
+2017-04-22 23:01:50,366 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [2480] GetRoomEntryDataEvent
+2017-04-22 23:01:51,191 DEBUG - Cloud.Communication.Packets >> PAQUETE DESCONOCIDO: [2850] BODY: 
+2017-04-22 23:01:51,639 DEBUG - Cloud.Communication.Packets >> PAQUETE DESCONOCIDO: [3387] BODY: 
+2017-04-22 23:01:51,825 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [1334] GetGuestRoomEvent
+2017-04-22 23:02:02,194 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [637] StartTypingEvent
+2017-04-22 23:02:03,228 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [1181] PingEvent
+2017-04-22 23:02:03,387 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [2901] ChatEvent
+2017-04-22 23:02:03,420 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [957] CancelTypingEvent
+2017-04-22 23:02:04,728 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [3349] MoveAvatarEvent
+2017-04-22 23:02:05,943 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [397] LatencyTestEvent
+2017-04-22 23:02:05,977 DEBUG - Cloud.Communication.Packets >> PAQUETE RECIBIDO: [2054] PongMessageEvent
+2017-05-17 04:39:45,741 WARN  - Cloud.CloudServer >> » Ya existe una conexión a la base de datos o hay un problema al conectarse con ella.
+2017-06-24 19:57:41,550 WARN  - Cloud.CloudServer >> » Ya existe una conexión a la base de datos o hay un problema al conectarse con ella.
+2017-06-24 20:04:11,458 WARN  - Cloud.CloudServer >> » Ya existe una conexión a la base de datos o hay un problema al conectarse con ella.
+2017-07-10 18:39:58,306 INFO  - Cloud.CloudServer >> » Conectado a la Base de datos!
+2017-07-10 18:39:58,663 INFO  - Cloud.HabboHotel.Game >> » Iniciando Cloud Server Para Lella...
+2017-07-10 18:39:58,754 INFO  - Cloud.Core >> » Extra Settings -> CARGADO!
+2017-07-10 18:39:58,779 INFO  - Cloud.Core >> » Catalog Settings -> CARGADO!
+2017-07-10 18:39:58,783 INFO  - Cloud.Core >> » Notificaciones -> CARGADO!
+2017-07-10 18:39:59,331 INFO  - Cloud.Core.Language.LanguageManager >> » Cargado(s): 29 idiomas locales.
+2017-07-10 18:39:59,768 INFO  - Cloud.Core.Settings.SettingsManager >> » Cargada(s): 24 configuraciones del servidor.
+2017-07-10 18:40:00,511 INFO  - Cloud.HabboHotel.Moderation.ModerationManager >> » Cargado(s): 7 moderation presets.
+2017-07-10 18:40:00,516 INFO  - Cloud.HabboHotel.Moderation.ModerationManager >> » Cargado(s): 7 categorías de moderación.
+2017-07-10 18:40:00,517 INFO  - Cloud.HabboHotel.Moderation.ModerationManager >> » Cargado(s): 7 Msj. de preajuste de acción de moderación.
+2017-07-10 18:40:00,517 INFO  - Cloud.HabboHotel.Moderation.ModerationManager >> » En caché hay: 5 usuarios y maquinas de baneo.
+2017-07-10 18:40:02,267 INFO  - Cloud.HabboHotel.Items.ItemDataManager >> » Administrador de Items -> CARGADO
+2017-07-10 18:40:10,614 INFO  - Cloud.HabboHotel.Catalog.CatalogManager >> » Catalogo -> CARGADO
+2017-07-10 18:40:10,652 INFO  - Cloud.HabboHotel.Items.Crafting.CraftingManager >> » Crafring Manager -> CARGADO
+2017-07-10 18:40:10,713 INFO  - Cloud.HabboHotel.Items.Televisions.TelevisionManager >> » YouTube Manager -> CARGADO
+2017-07-10 18:40:10,859 INFO  - Cloud.HabboHotel.Navigator.NavigatorManager >> » Navegador de salas -> CARGADO
+2017-07-10 18:40:11,499 INFO  - Cloud.HabboHotel.Rooms.RoomManager >> » Salas -> CARGADO
+2017-07-10 18:40:11,823 INFO  - Cloud.HabboHotel.Rooms.Chat.Styles.ChatStyleManager >> » Carrengado: 43 estilos de chat.
+2017-07-10 18:40:11,824 INFO  - Cloud.HabboHotel.Rooms.Chat.ChatManager >> » Chat Manager -> CARGADO
+2017-07-10 18:40:11,933 INFO  - Cloud.HabboHotel.Quests.QuestManager >> » Quest Manager -> CARGADO
+2017-07-10 18:40:12,072 INFO  - Cloud.HabboHotel.Achievements.AchievementManager >> » Achievement Manager -> CARGADO
+2017-07-10 18:40:12,250 INFO  - Cloud.HabboHotel.LandingView.LandingViewManager >> » Landing View -> CARGADO! 
+2017-07-10 18:40:12,298 INFO  - Cloud.HabboHotel.Games.GameDataManager >> » Juegos -> CARGADO
+2017-07-10 18:40:12,336 INFO  - Cloud.HabboHotel.Cache.CacheManager >> » Administrador de caché -> CARGADO
+2017-07-10 18:40:12,765 INFO  - Cloud.HabboHotel.Badges.BadgeManager >> » Cargada(s): 11232 definiciones de placas.
+2017-07-10 18:40:13,149 INFO  - Cloud.HabboHotel.Permissions.PermissionManager >> » Cargados: 52 permisos.
+2017-07-10 18:40:13,150 INFO  - Cloud.HabboHotel.Permissions.PermissionManager >> » Cargados: 16 grupo de permisos.
+2017-07-10 18:40:13,150 INFO  - Cloud.HabboHotel.Permissions.PermissionManager >> » Cargados: 15 derechos de los grupos de permisos.
+2017-07-10 18:40:13,150 INFO  - Cloud.HabboHotel.Permissions.PermissionManager >> » Cargados: 3 permisos con derecho de suscripción.
+2017-07-10 18:40:13,175 INFO  - Cloud.HabboHotel.Subscriptions.SubscriptionManager >> » Cargadas: 3 subscripciones.
+2017-07-10 18:40:13,181 INFO  - Cloud.HabboHotel.Rooms.TraxMachine >> » Jukebox -> Sonidos cargados: [82]
+2017-07-10 18:40:13,537 INFO  - Cloud.Core.FigureData >> » Figure Manager -> CARGADO.
+2017-07-10 18:40:13,690 INFO  - Cloud.Core.ServerStatusUpdater >> » Actualizador del servidor iniciado.
+2017-07-10 18:40:16,998 INFO  - Cloud.Communication.ConnectionManager >> » Configuración satisfactoria de los puetos: (30000)!
+2017-07-10 18:40:16,999 INFO  - Cloud.Communication.ConnectionManager >> » Maximas conexiones por IP [2000]!
+2017-07-10 18:40:17,002 INFO  - Cloud.CloudServer >> » CLOUD SERVER -> LISTO!! (29 s, 426 ms)
+2017-07-10 18:40:21,328 WARN  - Cloud.Core.ConsoleCommandHandler >> The server is saving users furniture, rooms, etc. WAIT FOR THE SERVER TO CLOSE, DO NOT EXIT THE PROCESS IN TASK MANAGER!!
+2017-07-10 18:40:21,340 INFO  - Cloud.CloudServer >> Apagando el servidor...
+2017-07-10 18:40:23,959 INFO  - Cloud.HabboHotel.GameClients.GameClientManager >> Listo, inventario de los users guardado!
+2017-07-10 18:40:23,962 INFO  - Cloud.HabboHotel.GameClients.GameClientManager >> Cerrando las conexiones del servidor...
+2017-07-10 18:40:23,963 INFO  - Cloud.HabboHotel.GameClients.GameClientManager >> Conexiones Cerradas!
+2017-07-10 18:40:23,965 INFO  - Cloud.HabboHotel.Rooms.RoomManager >> Quartos salvos com sucesso!
+2017-07-10 18:40:28,836 WARN  - Cloud.HabboHotel.Game >> Client Manager destroyed
+2017-07-10 18:40:28,841 INFO  - Cloud.CloudServer >> Cloud Server Fue Apagado con Exito.
+2017-07-10 18:40:28,841 WARN  - Cloud.CloudServer >> Apagado Completo. Presione una tecla para continuar...
+2017-07-10 18:43:13,765 WARN  - Cloud.CloudServer >> » Ya existe una conexión a la base de datos o hay un problema al conectarse con ella.
+2017-07-10 18:51:44,813 WARN  - Cloud.CloudServer >> » Ya existe una conexión a la base de datos o hay un problema al conectarse con ella.
+2017-10-31 22:24:55,158 WARN  - Cloud.CloudServer >> » Ya existe una conexión a la base de datos o hay un problema al conectarse con ella.

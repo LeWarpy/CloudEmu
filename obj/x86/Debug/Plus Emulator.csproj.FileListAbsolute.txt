@@ -1,0 +1,33 @@
+C:\Users\mierda seca\Desktop\uncoded-plus-emulator-master-3ed81fae1ed0d406916a15a8fe9d629ee6561161\bin\Debug\Plus Emulator.exe.config
+C:\Users\mierda seca\Desktop\uncoded-plus-emulator-master-3ed81fae1ed0d406916a15a8fe9d629ee6561161\bin\Debug\Plus Emulator.exe
+C:\Users\mierda seca\Desktop\uncoded-plus-emulator-master-3ed81fae1ed0d406916a15a8fe9d629ee6561161\bin\Debug\Plus Emulator.pdb
+C:\Users\mierda seca\Desktop\uncoded-plus-emulator-master-3ed81fae1ed0d406916a15a8fe9d629ee6561161\bin\Debug\log4net.xml
+C:\Users\mierda seca\Desktop\uncoded-plus-emulator-master-3ed81fae1ed0d406916a15a8fe9d629ee6561161\obj\x86\Debug\Plus Emulator.csprojResolveAssemblyReference.cache
+C:\Users\mierda seca\Desktop\uncoded-plus-emulator-master-3ed81fae1ed0d406916a15a8fe9d629ee6561161\obj\x86\Debug\Plus Emulator.exe
+C:\Users\mierda seca\Desktop\uncoded-plus-emulator-master-3ed81fae1ed0d406916a15a8fe9d629ee6561161\obj\x86\Debug\Plus Emulator.pdb
+C:\Users\mierda seca\Desktop\uncoded-plus-emulator-master-3ed81fae1ed0d406916a15a8fe9d629ee6561161\bin\Debug\Enyim.Caching.dll
+C:\Users\mierda seca\Desktop\uncoded-plus-emulator-master-3ed81fae1ed0d406916a15a8fe9d629ee6561161\bin\Debug\Enyim.Caching.pdb
+C:\Users\mierda seca\Desktop\uncoded-plus-emulator-master-3ed81fae1ed0d406916a15a8fe9d629ee6561161\bin\Debug\Enyim.Caching.xml
+C:\Users\mierda seca\Desktop\Uncoded - Mith\bin\Debug\Plus Emulator.exe.config
+C:\Users\mierda seca\Desktop\Uncoded - Mith\obj\x86\Debug\Plus Emulator.exe
+C:\Users\mierda seca\Desktop\Uncoded - Mith\obj\x86\Debug\Plus Emulator.pdb
+C:\Users\mierda seca\Desktop\Uncoded - Mith\bin\Debug\Plus Emulator.exe
+C:\Users\mierda seca\Desktop\Uncoded - Mith\bin\Debug\Plus Emulator.pdb
+C:\Users\mierda seca\Desktop\Uncoded - Mith\bin\Debug\Enyim.Caching.dll
+C:\Users\mierda seca\Desktop\Uncoded - Mith\bin\Debug\Enyim.Caching.pdb
+C:\Users\mierda seca\Desktop\Uncoded - Mith\bin\Debug\Enyim.Caching.xml
+C:\Users\mierda seca\Desktop\Uncoded - Mith\bin\Debug\log4net.xml
+C:\Users\mierda seca\Desktop\Uncoded - Mith\obj\x86\Debug\Plus Emulator.csprojResolveAssemblyReference.cache
+C:\Users\root\Desktop\Uncoded - Mith\bin\Debug\Plus Emulator.exe.config
+C:\Users\root\Desktop\Uncoded - Mith\obj\x86\Debug\Plus Emulator.exe
+C:\Users\root\Desktop\Uncoded - Mith\obj\x86\Debug\Plus Emulator.pdb
+C:\Users\Administrador\Desktop\Uncoded - Mith\bin\Debug\Plus Emulator.exe.config
+C:\Users\Administrador\Desktop\Uncoded - Mith\bin\Debug\Plus Emulator.exe
+C:\Users\Administrador\Desktop\Uncoded - Mith\bin\Debug\Plus Emulator.pdb
+C:\Users\Administrador\Desktop\Uncoded - Mith\bin\Debug\Enyim.Caching.dll
+C:\Users\Administrador\Desktop\Uncoded - Mith\bin\Debug\Enyim.Caching.pdb
+C:\Users\Administrador\Desktop\Uncoded - Mith\bin\Debug\Enyim.Caching.xml
+C:\Users\Administrador\Desktop\Uncoded - Mith\bin\Debug\log4net.xml
+C:\Users\Administrador\Desktop\Uncoded - Mith\obj\x86\Debug\Plus Emulator.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Uncoded - Mith\obj\x86\Debug\Plus Emulator.exe
+C:\Users\Administrador\Desktop\Uncoded - Mith\obj\x86\Debug\Plus Emulator.pdb

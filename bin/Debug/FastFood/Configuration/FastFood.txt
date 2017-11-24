@@ -1,0 +1,22 @@
+## Fast Food Coded by Carlos D.
+## Please, don't delete this notes.
+
+## MySql Configuration
+db.host=127.0.0.1
+db.port=3306
+db.username=root
+db.password=
+db.dbname=
+
+## MySql Extra Info
+db.pool.size=100
+db.client.amount=200
+
+## Sockets Configuration ##
+game.tcp.conlimit=11000
+game.tcp.conperip=100
+game.tcp.enablenagles=false
+
+#FastFood info
+swfs.site=http://www.haboox.com/swf.haboox/games/
+init.port=90

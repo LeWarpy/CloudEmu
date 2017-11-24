@@ -1,0 +1,188 @@
+C:\Users\Juan\Desktop\EMU\bin\Debug\Cloud Server.exe.config
+C:\Users\Juan\Desktop\EMU\bin\Debug\Cloud Server.exe
+C:\Users\Juan\Desktop\EMU\bin\Debug\Cloud Server.pdb
+C:\Users\Juan\Desktop\EMU\bin\Debug\Enyim.Caching.dll
+C:\Users\Juan\Desktop\EMU\bin\Debug\Enyim.Caching.pdb
+C:\Users\Juan\Desktop\EMU\bin\Debug\Enyim.Caching.xml
+C:\HOTELES\Haboox\Includes\EMU\bin\Mixed\Release\Cloud Server.exe
+C:\HOTELES\Haboox\Includes\EMU\bin\Mixed\Release\HabboEncryption.dll
+C:\HOTELES\Haboox\Includes\EMU\bin\Mixed\Release\log4net.dll
+C:\HOTELES\Haboox\Includes\EMU\bin\Mixed\Release\MySql.Data.dll
+C:\Users\JEDGV\Desktop\Nueva carpeta\EMU\bin\Mixed\Release\Cloud Server.exe.config
+C:\Users\JEDGV\Desktop\Nueva carpeta\EMU\bin\Mixed\Release\Cloud Server.exe
+C:\Users\JEDGV\Desktop\Nueva carpeta\EMU\bin\Mixed\Release\Cloud Server.pdb
+C:\Users\JEDGV\Desktop\Nueva carpeta\EMU\bin\Mixed\Release\AStar.dll
+C:\Users\JEDGV\Desktop\Nueva carpeta\EMU\bin\Mixed\Release\Enyim.Caching.dll
+C:\Users\JEDGV\Desktop\Nueva carpeta\EMU\bin\Mixed\Release\HabboEncryption.dll
+C:\Users\JEDGV\Desktop\Nueva carpeta\EMU\bin\Mixed\Release\log4net.dll
+C:\Users\JEDGV\Desktop\Nueva carpeta\EMU\bin\Mixed\Release\MySql.Data.dll
+C:\Users\JEDGV\Desktop\Nueva carpeta\EMU\bin\Mixed\Release\Enyim.Caching.pdb
+C:\Users\JEDGV\Desktop\Nueva carpeta\EMU\bin\Mixed\Release\Enyim.Caching.xml
+C:\Users\JEDGV\Desktop\Nueva carpeta\EMU\obj\x86\Release\Cloud Server.csprojResolveAssemblyReference.cache
+C:\Users\JEDGV\Desktop\Nueva carpeta\EMU\obj\x86\Release\Cloud Server.exe
+C:\Users\JEDGV\Desktop\Nueva carpeta\EMU\obj\x86\Release\Cloud Server.pdb
+C:\HOTELES\Haboox\Includes\EMU\bin\Mixed\Release\Cloud Server.exe.config
+C:\HOTELES\Haboox\Includes\EMU\obj\x86\Release\Cloud Server.exe
+C:\HOTELES\Haboox\Includes\EMU\obj\x86\Release\Cloud Server.pdb
+C:\HOTELES\Haboox\Includes\EMU\bin\Mixed\Release\Cloud Server.pdb
+C:\HOTELES\Haboox\Includes\EMU\bin\Mixed\Release\AStar.dll
+C:\HOTELES\Haboox\Includes\EMU\bin\Mixed\Release\Enyim.Caching.dll
+C:\HOTELES\Haboox\Includes\EMU\bin\Mixed\Release\Enyim.Caching.pdb
+C:\HOTELES\Haboox\Includes\EMU\bin\Mixed\Release\Enyim.Caching.xml
+C:\HOTELES\Haboox\Includes\EMU\obj\x86\Release\Cloud Server.csprojResolveAssemblyReference.cache
+C:\Users\JUAN\Desktop\EMU\bin\Mixed\Release\Cloud Server.exe.config
+C:\Users\JUAN\Desktop\EMU\bin\Mixed\Release\Cloud Server.exe
+C:\Users\JUAN\Desktop\EMU\bin\Mixed\Release\Cloud Server.pdb
+C:\Users\JUAN\Desktop\EMU\bin\Mixed\Release\AStar.dll
+C:\Users\JUAN\Desktop\EMU\bin\Mixed\Release\Enyim.Caching.dll
+C:\Users\JUAN\Desktop\EMU\bin\Mixed\Release\HabboEncryption.dll
+C:\Users\JUAN\Desktop\EMU\bin\Mixed\Release\log4net.dll
+C:\Users\JUAN\Desktop\EMU\bin\Mixed\Release\MySql.Data.dll
+C:\Users\JUAN\Desktop\EMU\bin\Mixed\Release\Enyim.Caching.pdb
+C:\Users\JUAN\Desktop\EMU\bin\Mixed\Release\Enyim.Caching.xml
+C:\Users\JUAN\Desktop\EMU\obj\x86\Release\Cloud Server.exe
+C:\Users\JUAN\Desktop\EMU\obj\x86\Release\Cloud Server.pdb
+C:\Users\JUAN\Desktop\EMU\obj\x86\Release\Cloud Server.csprojResolveAssemblyReference.cache
+C:\Users\JUAN\Desktop\EMU-BETA\bin\Mixed\Release\Cloud Server.exe.config
+C:\Users\JUAN\Desktop\EMU-BETA\obj\x86\Release\Cloud Server.exe
+C:\Users\JUAN\Desktop\EMU-BETA\obj\x86\Release\Cloud Server.pdb
+C:\Users\JUAN\Desktop\EMU-BETA\bin\Mixed\Release\Cloud Server.exe
+C:\Users\JUAN\Desktop\EMU-BETA\bin\Mixed\Release\Cloud Server.pdb
+C:\Users\JUAN\Desktop\EMU-BETA\bin\Mixed\Release\AStar.dll
+C:\Users\JUAN\Desktop\EMU-BETA\bin\Mixed\Release\Enyim.Caching.dll
+C:\Users\JUAN\Desktop\EMU-BETA\bin\Mixed\Release\HabboEncryption.dll
+C:\Users\JUAN\Desktop\EMU-BETA\bin\Mixed\Release\log4net.dll
+C:\Users\JUAN\Desktop\EMU-BETA\bin\Mixed\Release\MySql.Data.dll
+C:\Users\JUAN\Desktop\EMU-BETA\bin\Mixed\Release\Enyim.Caching.pdb
+C:\Users\JUAN\Desktop\EMU-BETA\bin\Mixed\Release\Enyim.Caching.xml
+C:\Users\JUAN\Desktop\EMU-BETA\obj\x86\Release\Cloud Server.csprojResolveAssemblyReference.cache
+C:\Users\JUAN\Desktop\EMU-NEW\bin\Mixed\Release\Cloud Server.exe.config
+C:\Users\JUAN\Desktop\EMU-NEW\obj\x86\Release\Cloud Server.exe
+C:\Users\JUAN\Desktop\EMU-NEW\obj\x86\Release\Cloud Server.pdb
+C:\Users\JUAN\Desktop\EMU-NEW\bin\Mixed\Release\Cloud Server.exe
+C:\Users\JUAN\Desktop\EMU-NEW\bin\Mixed\Release\Cloud Server.pdb
+C:\Users\JUAN\Desktop\EMU-NEW\bin\Mixed\Release\AStar.dll
+C:\Users\JUAN\Desktop\EMU-NEW\bin\Mixed\Release\Enyim.Caching.dll
+C:\Users\JUAN\Desktop\EMU-NEW\bin\Mixed\Release\HabboEncryption.dll
+C:\Users\JUAN\Desktop\EMU-NEW\bin\Mixed\Release\log4net.dll
+C:\Users\JUAN\Desktop\EMU-NEW\bin\Mixed\Release\MySql.Data.dll
+C:\Users\JUAN\Desktop\EMU-NEW\bin\Mixed\Release\Enyim.Caching.pdb
+C:\Users\JUAN\Desktop\EMU-NEW\bin\Mixed\Release\Enyim.Caching.xml
+C:\Users\Administrator\Desktop\EMU\bin\Mixed\Release\Cloud Server.exe.config
+C:\Users\Administrator\Desktop\EMU\bin\Mixed\Release\Cloud Server.exe
+C:\Users\Administrator\Desktop\EMU\bin\Mixed\Release\Cloud Server.pdb
+C:\Users\Administrator\Desktop\EMU\bin\Mixed\Release\AStar.dll
+C:\Users\Administrator\Desktop\EMU\bin\Mixed\Release\Enyim.Caching.dll
+C:\Users\Administrator\Desktop\EMU\bin\Mixed\Release\HabboEncryption.dll
+C:\Users\Administrator\Desktop\EMU\bin\Mixed\Release\log4net.dll
+C:\Users\Administrator\Desktop\EMU\bin\Mixed\Release\MySql.Data.dll
+C:\Users\Administrator\Desktop\EMU\bin\Mixed\Release\Enyim.Caching.pdb
+C:\Users\Administrator\Desktop\EMU\bin\Mixed\Release\Enyim.Caching.xml
+C:\Users\Administrator\Desktop\EMU\obj\x86\Release\Cloud Server.exe
+C:\Users\Administrator\Desktop\EMU\obj\x86\Release\Cloud Server.pdb
+C:\Users\Administrator\Desktop\EMU\obj\x86\Release\Cloud Server.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Cloud Seeven\Cloud\bin\Mixed\Release\Cloud Server.exe.config
+C:\Users\Administrador\Desktop\Cloud Seeven\Cloud\bin\Mixed\Release\Cloud Server.exe
+C:\Users\Administrador\Desktop\Cloud Seeven\Cloud\bin\Mixed\Release\Cloud Server.pdb
+C:\Users\Administrador\Desktop\Cloud Seeven\Cloud\bin\Mixed\Release\AStar.dll
+C:\Users\Administrador\Desktop\Cloud Seeven\Cloud\bin\Mixed\Release\Enyim.Caching.dll
+C:\Users\Administrador\Desktop\Cloud Seeven\Cloud\bin\Mixed\Release\HabboEncryption.dll
+C:\Users\Administrador\Desktop\Cloud Seeven\Cloud\bin\Mixed\Release\log4net.dll
+C:\Users\Administrador\Desktop\Cloud Seeven\Cloud\bin\Mixed\Release\MySql.Data.dll
+C:\Users\Administrador\Desktop\Cloud Seeven\Cloud\bin\Mixed\Release\Enyim.Caching.pdb
+C:\Users\Administrador\Desktop\Cloud Seeven\Cloud\bin\Mixed\Release\Enyim.Caching.xml
+C:\Users\Administrador\Desktop\Cloud Seeven\Cloud\obj\x86\Release\Cloud Server.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Cloud Seeven\Cloud\obj\x86\Release\Cloud Server.exe
+C:\Users\Administrador\Desktop\Cloud Seeven\Cloud\obj\x86\Release\Cloud Server.pdb
+C:\Users\Administrador\Desktop\Cloud Seeven 2\Cloud\obj\x86\Release\Cloud Server.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Cloud Seeven 2\Cloud\obj\x86\Release\Cloud Server.exe
+C:\Users\Administrador\Desktop\Cloud Seeven 2\Cloud\obj\x86\Release\Cloud Server.pdb
+C:\Users\Administrador\Desktop\Cloud Seeven 2\Cloud\bin\Mixed\Release\Cloud Server.exe.config
+C:\Users\Administrador\Desktop\Cloud Seeven 2\Cloud\bin\Mixed\Release\Cloud Server.exe
+C:\Users\Administrador\Desktop\Cloud Seeven 2\Cloud\bin\Mixed\Release\Cloud Server.pdb
+C:\Users\Administrador\Desktop\Cloud Seeven 2\Cloud\bin\Mixed\Release\AStar.dll
+C:\Users\Administrador\Desktop\Cloud Seeven 2\Cloud\bin\Mixed\Release\Enyim.Caching.dll
+C:\Users\Administrador\Desktop\Cloud Seeven 2\Cloud\bin\Mixed\Release\HabboEncryption.dll
+C:\Users\Administrador\Desktop\Cloud Seeven 2\Cloud\bin\Mixed\Release\log4net.dll
+C:\Users\Administrador\Desktop\Cloud Seeven 2\Cloud\bin\Mixed\Release\MySql.Data.dll
+C:\Users\Administrador\Desktop\Cloud Seeven 2\Cloud\bin\Mixed\Release\Enyim.Caching.xml
+C:\Users\Administrador\Desktop\Cloud xjoao sem nux\Cloud\bin\Mixed\Release\Cloud Server.exe.config
+C:\Users\Administrador\Desktop\Cloud xjoao sem nux\Cloud\bin\Mixed\Release\Cloud Server.exe
+C:\Users\Administrador\Desktop\Cloud xjoao sem nux\Cloud\bin\Mixed\Release\Cloud Server.pdb
+C:\Users\Administrador\Desktop\Cloud xjoao sem nux\Cloud\bin\Mixed\Release\AStar.dll
+C:\Users\Administrador\Desktop\Cloud xjoao sem nux\Cloud\bin\Mixed\Release\Enyim.Caching.dll
+C:\Users\Administrador\Desktop\Cloud xjoao sem nux\Cloud\bin\Mixed\Release\HabboEncryption.dll
+C:\Users\Administrador\Desktop\Cloud xjoao sem nux\Cloud\bin\Mixed\Release\log4net.dll
+C:\Users\Administrador\Desktop\Cloud xjoao sem nux\Cloud\bin\Mixed\Release\MySql.Data.dll
+C:\Users\Administrador\Desktop\Cloud xjoao sem nux\Cloud\bin\Mixed\Release\Enyim.Caching.xml
+C:\Users\Administrador\Desktop\Cloud xjoao sem nux\Cloud\obj\x86\Release\Cloud Server.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Cloud xjoao sem nux\Cloud\obj\x86\Release\Cloud Server.exe
+C:\Users\Administrador\Desktop\Cloud xjoao sem nux\Cloud\obj\x86\Release\Cloud Server.pdb
+C:\Users\Administrator\Desktop\Cloud xjoao sem nux\Cloud\bin\Mixed\Release\Cloud Server.exe.config
+C:\Users\Administrator\Desktop\Cloud xjoao sem nux\Cloud\bin\Mixed\Release\Cloud Server.exe
+C:\Users\Administrator\Desktop\Cloud xjoao sem nux\Cloud\bin\Mixed\Release\Cloud Server.pdb
+C:\Users\Administrator\Desktop\Cloud xjoao sem nux\Cloud\bin\Mixed\Release\AStar.dll
+C:\Users\Administrator\Desktop\Cloud xjoao sem nux\Cloud\bin\Mixed\Release\Enyim.Caching.dll
+C:\Users\Administrator\Desktop\Cloud xjoao sem nux\Cloud\bin\Mixed\Release\HabboEncryption.dll
+C:\Users\Administrator\Desktop\Cloud xjoao sem nux\Cloud\bin\Mixed\Release\log4net.dll
+C:\Users\Administrator\Desktop\Cloud xjoao sem nux\Cloud\bin\Mixed\Release\MySql.Data.dll
+C:\Users\Administrator\Desktop\Cloud xjoao sem nux\Cloud\bin\Mixed\Release\Enyim.Caching.xml
+C:\Users\Administrator\Desktop\Cloud xjoao sem nux\Cloud\obj\x86\Release\Cloud Server.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Cloud xjoao sem nux\Cloud\obj\x86\Release\Cloud Server.exe
+C:\Users\Administrator\Desktop\Cloud xjoao sem nux\Cloud\obj\x86\Release\Cloud Server.pdb
+C:\Users\Joao Paulo\Downloads\Cloud xjoao sem nux\Cloud\obj\x86\Release\Cloud Server.csprojResolveAssemblyReference.cache
+C:\Users\Joao Paulo\Downloads\Cloud xjoao sem nux\Cloud\obj\x86\Release\Cloud Server.exe
+C:\Users\Joao Paulo\Downloads\Cloud xjoao sem nux\Cloud\obj\x86\Release\Cloud Server.pdb
+C:\Users\Joao Paulo\Downloads\Cloud xjoao sem nux\Cloud\bin\Mixed\Release\Cloud Server.exe.config
+C:\Users\Joao Paulo\Downloads\Cloud xjoao sem nux\Cloud\bin\Mixed\Release\Cloud Server.exe
+C:\Users\Joao Paulo\Downloads\Cloud xjoao sem nux\Cloud\bin\Mixed\Release\Cloud Server.pdb
+C:\Users\Joao Paulo\Downloads\Cloud xjoao sem nux\Cloud\bin\Mixed\Release\AStar.dll
+C:\Users\Joao Paulo\Downloads\Cloud xjoao sem nux\Cloud\bin\Mixed\Release\Enyim.Caching.dll
+C:\Users\Joao Paulo\Downloads\Cloud xjoao sem nux\Cloud\bin\Mixed\Release\HabboEncryption.dll
+C:\Users\Joao Paulo\Downloads\Cloud xjoao sem nux\Cloud\bin\Mixed\Release\log4net.dll
+C:\Users\Joao Paulo\Downloads\Cloud xjoao sem nux\Cloud\bin\Mixed\Release\MySql.Data.dll
+C:\Users\Joao Paulo\Downloads\Cloud xjoao sem nux\Cloud\bin\Mixed\Release\Enyim.Caching.xml
+C:\Users\Joao Paulo\Downloads\Dual Server 2017\Cloud\bin\Mixed\Release\Cloud Server.exe.config
+C:\Users\Joao Paulo\Downloads\Dual Server 2017\Cloud\bin\Mixed\Release\Cloud Server.exe
+C:\Users\Joao Paulo\Downloads\Dual Server 2017\Cloud\bin\Mixed\Release\Cloud Server.pdb
+C:\Users\Joao Paulo\Downloads\Dual Server 2017\Cloud\bin\Mixed\Release\AStar.dll
+C:\Users\Joao Paulo\Downloads\Dual Server 2017\Cloud\bin\Mixed\Release\Enyim.Caching.dll
+C:\Users\Joao Paulo\Downloads\Dual Server 2017\Cloud\bin\Mixed\Release\HabboEncryption.dll
+C:\Users\Joao Paulo\Downloads\Dual Server 2017\Cloud\bin\Mixed\Release\log4net.dll
+C:\Users\Joao Paulo\Downloads\Dual Server 2017\Cloud\bin\Mixed\Release\MySql.Data.dll
+C:\Users\Joao Paulo\Downloads\Dual Server 2017\Cloud\bin\Mixed\Release\Enyim.Caching.xml
+C:\Users\Joao Paulo\Downloads\Dual Server 2017\Cloud\obj\x86\Release\Cloud Server.csprojResolveAssemblyReference.cache
+C:\Users\Joao Paulo\Downloads\Dual Server 2017\Cloud\obj\x86\Release\Cloud Server.exe
+C:\Users\Joao Paulo\Downloads\Dual Server 2017\Cloud\obj\x86\Release\Cloud Server.pdb
+C:\Users\Joao Paulo\Downloads\Dual Server release 2017\Cloud\bin\Mixed\Release\Cloud Server.exe.config
+C:\Users\Joao Paulo\Downloads\Dual Server release 2017\Cloud\bin\Mixed\Release\Cloud Server.exe
+C:\Users\Joao Paulo\Downloads\Dual Server release 2017\Cloud\bin\Mixed\Release\Cloud Server.pdb
+C:\Users\Joao Paulo\Downloads\Dual Server release 2017\Cloud\bin\Mixed\Release\AStar.dll
+C:\Users\Joao Paulo\Downloads\Dual Server release 2017\Cloud\bin\Mixed\Release\Enyim.Caching.dll
+C:\Users\Joao Paulo\Downloads\Dual Server release 2017\Cloud\bin\Mixed\Release\HabboEncryption.dll
+C:\Users\Joao Paulo\Downloads\Dual Server release 2017\Cloud\bin\Mixed\Release\log4net.dll
+C:\Users\Joao Paulo\Downloads\Dual Server release 2017\Cloud\bin\Mixed\Release\MySql.Data.dll
+C:\Users\Joao Paulo\Downloads\Dual Server release 2017\Cloud\bin\Mixed\Release\Enyim.Caching.xml
+C:\Users\Joao Paulo\Downloads\Dual Server release 2017\Cloud\obj\x86\Release\Cloud Server.csprojResolveAssemblyReference.cache
+C:\Users\Joao Paulo\Downloads\Dual Server release 2017\Cloud\obj\x86\Release\Cloud Server.exe
+C:\Users\Joao Paulo\Downloads\Dual Server release 2017\Cloud\obj\x86\Release\Cloud Server.pdb
+C:\Users\Escritorio\Downloads\Dual Server release 2017\Cloud\obj\x86\Release\Cloud Server.csprojResolveAssemblyReference.cache
+C:\Users\Escritorio\Downloads\Dual Server release 2017\Cloud\obj\x86\Release\Cloud Server.csproj.CoreCompileInputs.cache
+C:\Users\Escritorio\Downloads\Dual Server release 2017\Cloud\obj\x86\Release\Cloud Server.exe
+C:\Users\Escritorio\Downloads\Dual Server release 2017\Cloud\obj\x86\Release\Cloud Server.pdb
+C:\Users\Escritorio\Downloads\Dual Server release 2017.1\Cloud\bin\Mixed\Release\Cloud Server.exe.config
+C:\Users\Escritorio\Downloads\Dual Server release 2017.1\Cloud\bin\Mixed\Release\Cloud Server.exe
+C:\Users\Escritorio\Downloads\Dual Server release 2017.1\Cloud\bin\Mixed\Release\Cloud Server.pdb
+C:\Users\Escritorio\Downloads\Dual Server release 2017.1\Cloud\bin\Mixed\Release\AStar.dll
+C:\Users\Escritorio\Downloads\Dual Server release 2017.1\Cloud\bin\Mixed\Release\Enyim.Caching.dll
+C:\Users\Escritorio\Downloads\Dual Server release 2017.1\Cloud\bin\Mixed\Release\HabboEncryption.dll
+C:\Users\Escritorio\Downloads\Dual Server release 2017.1\Cloud\bin\Mixed\Release\log4net.dll
+C:\Users\Escritorio\Downloads\Dual Server release 2017.1\Cloud\bin\Mixed\Release\MySql.Data.dll
+C:\Users\Escritorio\Downloads\Dual Server release 2017.1\Cloud\bin\Mixed\Release\Enyim.Caching.xml
+C:\Users\Escritorio\Downloads\Dual Server release 2017.1\Cloud\obj\x86\Release\Cloud Server.csprojResolveAssemblyReference.cache
+C:\Users\Escritorio\Downloads\Dual Server release 2017.1\Cloud\obj\x86\Release\Cloud Server.csproj.CoreCompileInputs.cache
+C:\Users\Escritorio\Downloads\Dual Server release 2017.1\Cloud\obj\x86\Release\Cloud Server.exe
+C:\Users\Escritorio\Downloads\Dual Server release 2017.1\Cloud\obj\x86\Release\Cloud Server.pdb
+C:\Users\ANTHONY-PC\Desktop\Cloud_test\bin\Mixed\Release\Cloud Server.exe.config
+C:\Users\ANTHONY-PC\Desktop\Cloud_test\obj\x86\Release\Cloud Server.exe
+C:\Users\ANTHONY-PC\Desktop\Cloud_test\obj\x86\Release\Cloud Server.pdb

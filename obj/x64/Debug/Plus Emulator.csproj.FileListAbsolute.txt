@@ -1,0 +1,28 @@
+C:\Users\root\Desktop\Uncoded - Mith\bin\x64\Debug\Plus Emulator.exe.config
+C:\Users\root\Desktop\Uncoded - Mith\obj\x64\Debug\Plus Emulator.csprojResolveAssemblyReference.cache
+C:\Users\root\Desktop\Uncoded - Mith\bin\x64\Debug\Plus Emulator.exe
+C:\Users\root\Desktop\Uncoded - Mith\bin\x64\Debug\Plus Emulator.pdb
+C:\Users\root\Desktop\Uncoded - Mith\bin\x64\Debug\AStar.dll
+C:\Users\root\Desktop\Uncoded - Mith\bin\x64\Debug\Enyim.Caching.dll
+C:\Users\root\Desktop\Uncoded - Mith\bin\x64\Debug\HabboEncryption.dll
+C:\Users\root\Desktop\Uncoded - Mith\bin\x64\Debug\log4net.dll
+C:\Users\root\Desktop\Uncoded - Mith\bin\x64\Debug\MySql.Data.dll
+C:\Users\root\Desktop\Uncoded - Mith\bin\x64\Debug\Enyim.Caching.pdb
+C:\Users\root\Desktop\Uncoded - Mith\bin\x64\Debug\Enyim.Caching.xml
+C:\Users\root\Desktop\Uncoded - Mith\bin\x64\Debug\log4net.xml
+C:\Users\root\Desktop\Uncoded - Mith\obj\x64\Debug\Plus Emulator.exe
+C:\Users\root\Desktop\Uncoded - Mith\obj\x64\Debug\Plus Emulator.pdb
+C:\Users\Administrador\Desktop\Uncoded - Mith\bin\x64\Debug\Plus Emulator.exe.config
+C:\Users\Administrador\Desktop\Uncoded - Mith\obj\x64\Debug\Plus Emulator.exe
+C:\Users\Administrador\Desktop\Uncoded - Mith\obj\x64\Debug\Plus Emulator.pdb
+C:\Users\Administrador\Desktop\Uncoded - Mith\bin\x64\Debug\Plus Emulator.exe
+C:\Users\Administrador\Desktop\Uncoded - Mith\bin\x64\Debug\Plus Emulator.pdb
+C:\Users\Administrador\Desktop\Uncoded - Mith\bin\x64\Debug\AStar.dll
+C:\Users\Administrador\Desktop\Uncoded - Mith\bin\x64\Debug\Enyim.Caching.dll
+C:\Users\Administrador\Desktop\Uncoded - Mith\bin\x64\Debug\HabboEncryption.dll
+C:\Users\Administrador\Desktop\Uncoded - Mith\bin\x64\Debug\log4net.dll
+C:\Users\Administrador\Desktop\Uncoded - Mith\bin\x64\Debug\MySql.Data.dll
+C:\Users\Administrador\Desktop\Uncoded - Mith\bin\x64\Debug\Enyim.Caching.pdb
+C:\Users\Administrador\Desktop\Uncoded - Mith\bin\x64\Debug\Enyim.Caching.xml
+C:\Users\Administrador\Desktop\Uncoded - Mith\bin\x64\Debug\log4net.xml
+C:\Users\Administrador\Desktop\Uncoded - Mith\obj\x64\Debug\Plus Emulator.csprojResolveAssemblyReference.cache
